@@ -20,7 +20,7 @@ My research interests include LLM reasoning and reinforcement learning, hallucin
 ## Research Experience
 
 - **Research Intern**, MINIMAX, February 2025 - Present
-- **Research Intern**, Tencent WXG**, June 2024 - September 2024, advised by Zifei Shan
+- **Research Intern**, Tencent WXG, June 2024 - September 2024, advised by Zifei Shan
 - **Research Intern**, Shanghai AI Lab, June 2023 - December 2023, advised by Prof. Yu Cheng
 
 ## Publications
